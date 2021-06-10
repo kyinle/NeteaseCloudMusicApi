@@ -353,6 +353,9 @@ $ npm test
 ![](https://opencollective.com/NeteaseCloudMusicApi/contributors.svg?width=890)
 
 
+
+
+
 ## License
 
 [The MIT License (MIT)](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/LICENSE)
